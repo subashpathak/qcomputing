@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quantum physics | Quantum Physics and Quantum Computing</title>
+    <link>/tags/quantum-physics/</link>
+      <atom:link href="/tags/quantum-physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>quantum physics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>quantum physics</title>
+      <link>/tags/quantum-physics/</link>
+    </image>
+    
+    <item>
+      <title>Some Resources to learn about quantum mechanics and quantum computing</title>
+      <link>/post/resources/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/resources/</guid>
+      <description>&lt;h1 id=&#34;i-am-currently-using-following-resources-to-enhance-my-understanding-of-quantum-computing&#34;&gt;I am currently using following Resources to enhance my understanding of quantum computing&lt;/h1&gt;
+&lt;h2 id=&#34;websites&#34;&gt;Websites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.ibm.com/quantum-computing/technology/experience/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IBM Q Experience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;books-articles-and-news&#34;&gt;Books, Articles and News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.theory.caltech.edu/~preskill/ph219/ph219_2018-19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Preskills Lecture notes; caltech professor&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fabric of Reality; David Deutch&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The beginning of infinity; David Deutsch&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://blogs.umass.edu/Techbytes/tag/quantum-computing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Umass blog on quantum computing&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hackernoon.com/16-best-resources-to-learn-quantum-computing-in-2019-e5d8b797aeb6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;16 Best Resources to Learn Quantum Computing in 2019&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://community.qiskit.org/textbook/preface.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning Quantum computing using Qiskit-Text Book&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;audio-and-video-links&#34;&gt;Audio and Video links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UClBNq7mCMf5xm8baE_VMl3A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum Information Science Kit: QiSKit, Youtube channel&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=QTGw9Ojhee8&amp;amp;list=PLDAjb_zu5aoFazE31_8yT0OfzsTcmvAVg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Umesh Vazirani, UC Berkely: Quantum Mechanics and Quantum computation&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.coursera.org/learn/quantum-computing-algorithms/home/welcome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The introduction to Quantum Computing, Coursera&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://abyss.uoregon.edu/~js/cosmo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cosmology lectures for U of Oregan class&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://quantum.country/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum country&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://theoreticalminimum.com/courses/quantum-mechanics/2012/winter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum Mwchanics: Teoretical minimum lectures&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
